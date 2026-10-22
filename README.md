@@ -11,7 +11,9 @@ Deze repo bevat alleen de installers en updates. Je hoeft hier niets te doen: je
 
 Na het installeren kies je in ReparatieCRM bij **Deze werkplek** voor **Koppelen met de Printhelper**.
 
-Windows kan bij het installeren "Onbekende uitgever" tonen; kies dan **Meer info** en **Toch uitvoeren**. Op een Mac open je de app de eerste keer met rechtsklik en **Openen**.
+Windows kan bij het installeren "Onbekende uitgever" tonen; kies dan **Meer info** en **Toch uitvoeren**.
+
+Op een Mac meldt macOS de eerste keer dat Apple de app niet kon controleren. Open de app één keer en sluit de melding. Kies daarna in **Systeeminstellingen → Privacy en beveiliging** bij ReparatieCRM Printhelper voor **Toch openen**.
 
 ## Vragen
 
